@@ -14,7 +14,7 @@ My key technical skills include:
 
 ### 🌟 Featured Projects
 
-#### 1. [SkillSwap](https://skillswap.anandbhagat.com)
+#### 1. SkillSwap
 
 A peer-to-peer learning platform that connects professionals to exchange skills. It features AI-powered matching, real-time communication, and comprehensive user management. Built with **React**, **Node.js**, **MongoDB**, and **Socket.IO**.
 
@@ -22,7 +22,7 @@ A peer-to-peer learning platform that connects professionals to exchange skills.
 
 [Live Project 🌐](https://skillswap.anandbhagat.com) | [Frontend Repo 📂](https://github.com/pesto-students/front-end-repo-p11-bit-busters-skill-swap) | [Backend Repo 📂](https://github.com/pesto-students/backend-repo-p11-bit-busters-skill-swap)
 
-#### 2. [Task Cascade](https://task-cascade.pages.dev)
+#### 2. Task Cascade
 
 A modern task management app with hierarchical task organization, time tracking, and real-time updates via GraphQL subscriptions. Built using **React**, **Vite**, **GraphQL**, and **Tailwind CSS**.
 
@@ -30,7 +30,7 @@ A modern task management app with hierarchical task organization, time tracking,
 
 [Live Project 🌐](https://task-cascade.pages.dev)
 
-#### 3. [Dolaji Scripts](https://dolajiscripts.com)
+#### 3. Dolaji Scripts
 
 An enterprise e-commerce platform for a **FiveM script developer**, featuring payment processing with PayPal, Discord authentication, and automated delivery. Built with **Laravel**, **Livewire**, **Alpine.js**, and **Tailwind CSS**.
 
